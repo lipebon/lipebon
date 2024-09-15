@@ -23,8 +23,8 @@ Aqui estão alguns dos meus projetos mais interessantes:
 
 
 ### 📫 Como Me Encontrar
-- **LinkedIn**: [Felipe T. Bon](https://www.linkedin.com/in/felipe-teixeira-bon-76285584/)
-- **Email**: [felipe_Bon](mailto:felipetbon@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-teixeira-bon-76285584/)
+- [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:felipetbon@gmail.com);
 
 ### 🌐 Contribua
 Estou sempre aberto a colaborações e novas oportunidades.
@@ -67,8 +67,8 @@ Here are some of my most interesting projects:
 - 🔗 [Project Name 1](link) - Brief Update - cooming soon.
 
 ### 📫 How to Reach Me
-- **LinkedIn**: [Felipe T. Bon](https://www.linkedin.com/in/felipe-teixeira-bon-76285584/);
-- **Email**: [felipe_Bon](mailto:felipetbon@gmail.com);
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-teixeira-bon-76285584/)
+- [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:felipetbon@gmail.com);
 
 ### 🌐 Contribute
 I am always open to collaborations and new opportunities.
