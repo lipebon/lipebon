@@ -1,5 +1,7 @@
 Pt-Br
 
+
+
 **"HELLO WORLD!"**
 
 
@@ -34,13 +36,13 @@ Se você estiver interessado em trabalhar comigo ou se tiver algum projeto em me
 👀 **Sinta-se à vontade para explorar meus repositórios e contribuir com ideias e sugestões!**
 
 
----
-
 "Obrigado!" 😄
 
 
 _____________________________________________________________________________________________________________________________________________________________________________
 En
+
+
 
 # **"HELLO WORLD!"**
 
