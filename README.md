@@ -1,33 +1,32 @@
 Pt-Br
 
-
-
 **"HELLO WORLD!"**
 
 
-# 👋 Olá, eu sou Felipe Bon! 
+## 👋 Olá, eu sou Felipe Bon! 
 
-## 🚀 Sobre Mim
+
+### 🚀 Sobre Mim
 Sou um intusiasmado estudante de Engenharia da Computação, apaixonado por novos conhecimentos;
 Engenharia da Computação (Dez - 2024);
 Formado em Bacharel em Tecnologia da Informação com enfase em IoT;
 Em busca de novos desafios SEMPRE e contribuir para projetos inovadores;
 
-## 🔧 Skills
+### 🔧 Skills
 - 💻 **Linguagens de Programação**: [Python - C++ - JavaScript]
 - 🔧 **Ferramentas e Plataformas**: [Arduino - Excell(avançado) - Pandas]
 - 📊 **Outras Skills**: [Git - CyberSecurity - Hardware - Inteligência Emocional - Windows - Linux]
 
-## 🌟 Projetos em Destaque
+### 🌟 Projetos em Destaque
 Aqui estão alguns dos meus projetos mais interessantes:
 - 🔗 [Nome do Projeto 1](link) - Breve Atualização.
 
 
-## 📫 Como Me Encontrar
+### 📫 Como Me Encontrar
 - **LinkedIn**: [Felipe T. Bon](https://www.linkedin.com/in/felipe-teixeira-bon-76285584/)
 - **Email**: [felipe_Bon](mailto:felipetbon@gmail.com)
 
-## 🌐 Contribua
+### 🌐 Contribua
 Estou sempre aberto a colaborações e novas oportunidades.
 Se você estiver interessado em trabalhar comigo ou se tiver algum projeto em mente, não hesite em me chamar!
 
@@ -42,11 +41,11 @@ Se você estiver interessado em trabalhar comigo ou se tiver algum projeto em me
 _____________________________________________________________________________________________________________________________________________________________________________
 En
 
+ **"HELLO WORLD!"**
 
-
-# **"HELLO WORLD!"**
 
 ## 👋 Hello, I’m Felipe Bon!
+
 
 ### 🚀 About Me
 I'm an enthusiastic Computer Engineering student, passionate about acquiring new knowledge;
@@ -75,6 +74,5 @@ If you’re interested in working with me or have a project in mind, feel free t
 
 👀 **Feel free to explore my repositories and contribute ideas and suggestions!**
 
----
 
 "Thank you!" 😄
