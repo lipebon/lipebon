@@ -1,49 +1,8 @@
-pt-Br
-
-**"HELLO WORLD!"**
-
-
-## 👋 Olá, eu sou Felipe Bon! 
-
-
-### 🚀 Sobre Mim
-- Sou um intusiasmado estudante de Engenharia da Computação, apaixonado por novos conhecimentos;
-- Engenharia da Computação (Dez - 2024);
-- Formado em Bacharel em Tecnologia da Informação com enfase em IoT;
-- Em busca de novos desafios SEMPRE e contribuir para projetos inovadores;
-
-### 🔧 Skills
-- 💻 **Linguagens de Programação**: [Python - C++ - JavaScript]
-- 🔧 **Ferramentas e Plataformas**: [Arduino - Excell(avançado) - Pandas]
-- 📊 **Outras Skills**: [Git - CyberSecurity - Hardware - Inteligência Emocional - Windows - Linux]
-
-### 🌟 Projetos em Destaque
-Aqui estão alguns dos meus projetos mais interessantes:
-- 🔗 [Nome do Projeto 1](link) - Breve Atualização.
-
-
-### 📫 Como Me Encontrar
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-teixeira-bon-76285584/)
-- [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:felipetbon@gmail.com)
-
-### 🌐 Contribua
-- Estou sempre aberto a colaborações e novas oportunidades.
-- Se você estiver interessado em trabalhar comigo ou se tiver algum projeto em mente, não hesite em me chamar!
-
---
-
-👀 **Sinta-se à vontade para explorar meus repositórios e contribuir com ideias e sugestões!**
--
--
-"Obrigado!" 😄
--
--
--
-_____________________________________________________________________________________________________________________________________________________________________________
-en
+```bash
 
  **"HELLO WORLD!"**
 
+```
 
 ## 👋 Hello, I’m Felipe Bon!
 
@@ -54,14 +13,17 @@ en
 -I hold a Bachelor's degree in Information Technology with a focus on IoT;
 -Always seeking new challenges and aiming to contribute to innovative projects;
 
+```bash
 ### 🔧 Skills
 - 💻 **Programming Languages**: [Python - C++ - JavaScript];
-- 🔧 **Tools and Platforms**: [Arduino - Excel (advanced) - Pandas];
+- 🔧 **Tools and Platforms**: [Arduino - Excel (advanced) - Pandas - GitHub - PowerBI];
 - 📊 **Other Skills**: [Git - CyberSecurity - Hardware - Emotional Intelligence - Windows - Linux];
+```
 
-### 🌟 Featured Projects
+### 🌟 Projects
 Here are some of my most interesting projects:
-- 🔗 [Project Name 1](link) - Brief Update - cooming soon.
+- 🔗 [Bank_System - in_Python](https://github.com/lipebon/DesafiosPython/tree/main/SYSTEM_BANK_V3%20(POO))
+
 
 ### 📫 How to Reach Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-teixeira-bon-76285584/)
