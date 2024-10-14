@@ -13,8 +13,9 @@
 -I hold a Bachelor's degree in Information Technology with a focus on IoT;
 -Always seeking new challenges and aiming to contribute to innovative projects;
 
-```bash
+
 ### 🔧 Skills
+```bash
 - 💻 **Programming Languages**: [Python - C++ - JavaScript];
 - 🔧 **Tools and Platforms**: [Arduino - Excel (advanced) - Pandas - GitHub - PowerBI];
 - 📊 **Other Skills**: [Git - CyberSecurity - Hardware - Emotional Intelligence - Windows - Linux];
@@ -23,6 +24,7 @@
 ### 🌟 Projects
 Here are some of my most interesting projects:
 - 🔗 [Bank_System - in_Python](https://github.com/lipebon/DesafiosPython/tree/main/SYSTEM_BANK_V3%20(POO))
+- 🔗 [Financial_BI - in Power BI](https://github.com/lipebon/PowerBI)
 
 
 ### 📫 How to Reach Me
